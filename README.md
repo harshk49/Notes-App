@@ -2,6 +2,18 @@
 
 The **Notes App** is a simple and intuitive application built using the **MERN** stack (MongoDB, Express, React, Node.js). This application allows users to easily create, edit, delete, and manage notes in a user-friendly environment. It is designed with a clean and responsive interface using **Tailwind CSS**, ensuring that it works well across different devices.
 
+## Screenshots
+![Screenshot 2024-09-21 183057](https://github.com/user-attachments/assets/a64339b5-a845-4ab4-b784-6b8b0123a70b)
+![Screenshot 2024-09-21 183007](https://github.com/user-attachments/assets/8a14310e-0105-482e-8f0f-a7402dba08ce)
+![Screenshot 2024-09-21 183001](https://github.com/user-attachments/assets/3e0c7374-e94b-4fb3-a25e-2af7f9b1bee3)
+![Screenshot 2024-09-21 182955](https://github.com/user-attachments/assets/1cf077fe-1196-44aa-86f7-176b3da4d0d7)
+![Screenshot 2024-09-21 182926](https://github.com/user-attachments/assets/42146cbe-b049-48ae-b01a-e45ca673616c)
+
+
+
+
+
+
 ## Features
 
 - User registration and authentication
